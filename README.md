@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raghav Rawal
 
 🎓 3rd Year B.E. CSE Student | 📍 Sathyabama University  
-🚀 Aspiring Quant Developer / HFT Engineer | 💸 Target: ₹50LPA+  
+🚀 Aspiring Quant Developer / HFT Engineer  
 🔭 Currently focused on C++, DSA, Competitive Programming & Systems
 
 ---
