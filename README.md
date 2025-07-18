@@ -15,9 +15,11 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-![Java]
-![C++(learning)]
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![C++ (Learning)](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
