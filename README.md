@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Raghav Rawal
 
-<!--
-**Ragrwll/Ragrwll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.E. CSE Student | 📍 Sathyabama University  
+🚀 Aspiring Quant Developer / HFT Engineer | 💸 Target: ₹50LPA+  
+🔭 Currently focused on C++, DSA, Competitive Programming & Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Working On
+- 📘 Solving 200+ Leetcode problems (currently: Easy & Medium)
+- 🧮 Building math & logic skills for Quant/Algo roles
+- 💻 Learning C++ STL, OS, Networks, System Design
+- 🧪 Projects in low-latency systems & trading simulations
+
+---
+
+## 🛠️ Tech Stack & Tools
+![Java]
+![C++(learning)]
+
+
+---
+
+## 📂 Projects I'm Starting Soon
+
+- 📈 Planning to build: **TradingSim_CPP** (basic backtesting system in C++)
+- 📚 Will start OS simulation projects after Sem 5
+- 🛠️ Mini-tools for learning STL, memory, and math
+
+
+---
+
+## 📊 Competitive Programming
+
+- 🥇 Codeforces: Just started practicing (Goal: Expert by 2026)
+- 💥 LeetCode: Started solving DSA (Goal: 300+ problems)
+- 🔁 AtCoder: Plan to begin by end of Sem 5
+
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/raghav-rawal-7995b131a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [GitHub](https://github.com/Ragrwll)
+- 📧 Email: raghavrawal1831@gmail.com
+
+---
+
+> “You don’t need to be from IIT to win — you just need to outwork everyone.”
+
+
