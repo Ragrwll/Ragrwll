@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Raghav Rawal
 
 🎓 3rd Year B.E. CSE Student | 📍 Sathyabama University  
-🚀 Aspiring Quant Developer / HFT Engineer  
-🔭 Currently focused on C++, DSA, Competitive Programming & Systems
+🔭 Currently focused on java, DSA
 
 ---
 
 ## 🧠 What I’m Working On
 - 📘 Solving 200+ Leetcode problems (currently: Easy & Medium)
-- 🧮 Building math & logic skills for Quant/Algo roles
-- 💻 Learning C++ STL, OS, Networks, System Design
-- 🧪 Projects in low-latency systems & trading simulations
+- 🧮 Building math & logic skills 
+- 💻 Learning OS, Networks, System Design
 
 ---
 
@@ -20,24 +18,6 @@
 ![C++ (Learning)](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-## 📂 Projects I'm Starting Soon
-
-- 📈 Planning to build: **TradingSim_CPP** (basic backtesting system in C++)
-- 📚 Will start OS simulation projects after Sem 5
-- 🛠️ Mini-tools for learning STL, memory, and math
-
-
----
-
-## 📊 Competitive Programming
-
-- 🥇 Codeforces: Just started practicing (Goal: Expert by 2026)
-- 💥 LeetCode: Started solving DSA (Goal: 300+ problems)
-- 🔁 AtCoder: Plan to begin by end of Sem 5
-
 
 ---
 
