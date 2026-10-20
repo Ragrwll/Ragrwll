@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raghav Rawal
 
-🎓 3rd Year B.E. CSE Student | 📍 Sathyabama University  
+🎓 4th Year B.E. CSE Student | 📍 Sathyabama University  
 🔭 Currently focused on java, DSA
 
 ---
